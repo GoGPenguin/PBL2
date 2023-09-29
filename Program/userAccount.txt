@@ -1,0 +1,7 @@
+USER1,Son,Quan Ly,son72,1234
+USER2,Thanh,Nhan Vien,thanh94,2345
+USER3,Hoa,Quan Ly,hoa80,3456
+USER4,Hoang Nguyen,Culi,hoangprovjp123,123
+USER5,Huy bu,Quan Ly Xuat Hang,huybu,huybu1
+USER6,Huybu2,Quan Ly Nhap Hang,huybu1,huybu2
+USER7,Tuan Anh,Nhan Vien,tuananh,3214

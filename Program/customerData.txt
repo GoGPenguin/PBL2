@@ -1,0 +1,7 @@
+CUS1,Nguyen Son,K14/1 Nguyen Phuoc Chu,0965423547
+CUS2,Hoang Nguyen,Dong Ke,696969
+CUS3,Captain America,Marvel,6666
+CUS4,Tony Stuck,Merval,8888
+CUS4,Near Airpot,North America,0508608
+CUS8,Hong Diem,Da Nang,0934792245
+CUS7,Diem Hong,KTX DHBKDN,123456

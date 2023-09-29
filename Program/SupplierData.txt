@@ -1,0 +1,9 @@
+SUP1,Cong ty sua,14 Ngo Thi Nham,123579
+SUP2,Cong ty kem,15 Ngo Thi Nham,56789
+SUP3,Cong ty banh keo,20 Ngo Van So,965783
+SUP4,Cong tu quan ao,20 Nguyen Van Cu,65247
+SUP5,Cong ty thuc pham,64 Nguyen Luong Bang,96517
+SUP7,Cong Ty Vifon,Da Nang,632578
+SUP8,Cong ty Masan,Binh Duong,693572
+SUP9,Cong ty bup be,Nhat Ban,696969
+SUP60,Nuoc ngot,Da Nang,551565
