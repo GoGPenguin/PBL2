@@ -1,6 +1,9 @@
 #ifndef DETAILINPUT_H
 #define DETAILINPUT_H
-#include <bits/stdc++.h>
+#include <iostream>
+#include <string>
+#include <vector>
+#include <iomanip>
 using namespace std;
 
 class DetailInput{

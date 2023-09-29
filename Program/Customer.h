@@ -1,7 +1,10 @@
 #ifndef CUSTOMER_H_
 #define CUSTOMER_H_
 
-#include <bits/stdc++.h>
+#include <iostream>
+#include <string>
+#include <vector>
+#include <iomanip>
 using namespace std;
 
 class Customer{

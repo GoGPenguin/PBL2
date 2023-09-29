@@ -1,6 +1,9 @@
 #ifndef SUPPLIER_H
 #define SUPPLIER_H
-#include <bits/stdc++.h>
+#include <iostream>
+#include <string>
+#include <vector>
+#include <iomanip>
 using namespace std;
 
 class Supplier {

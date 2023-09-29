@@ -1,7 +1,8 @@
 #ifndef HELPER_H_INCLUDED
 #define HELPER_H_INCLUDED
 
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
 #include"Input.h"
 #include"Output.h"
 #include "DetailInput.h"

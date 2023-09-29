@@ -1,5 +1,8 @@
-#include <bits/stdc++.h>
+#include <iostream>
 #include <conio.h>
+#include <fstream>
+#include <string>
+#include <iomanip>
 #include "Role.h"
 
 using namespace std;

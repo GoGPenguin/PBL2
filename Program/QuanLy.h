@@ -10,7 +10,11 @@
 #include "DetailInput.h"
 #include "Output.h"
 #include "DetailOutput.h"
-
+#include <iomanip>
+#include <iostream>
+#include <algorithm>
+#include <fstream>
+#include <vector>
 
 using namespace std;
 
@@ -29,7 +33,7 @@ protected:
 public:
     QuanLy();
     ~QuanLy();
-    //Doc tu file
+    // Doc tu file
     void inputCustomer();
     void inputCategory();
     void inputProduct();
@@ -39,16 +43,16 @@ public:
     void input_Output();
     void input_DetailOutput();
 
-    //CheckValidID
-    bool checkCusId(const string&);
-    bool checkSupId(const string&);
-    bool checkDinId(const string&);
-    bool checkInpId(const string&);
-    bool checkOutId(const string&);
-    bool checkDoutId(const string&);
-    bool checkProId(const string&);
-    bool checkUnitId(const string&);
-    bool checkInt(const string&);
+    // CheckValidID
+    bool checkCusId(const string &);
+    bool checkSupId(const string &);
+    bool checkDinId(const string &);
+    bool checkInpId(const string &);
+    bool checkOutId(const string &);
+    bool checkDoutId(const string &);
+    bool checkProId(const string &);
+    bool checkUnitId(const string &);
+    bool checkInt(const string &);
 };
 
 class QuanLyXuatKho : public QuanLy
@@ -57,7 +61,7 @@ public:
     ~QuanLyXuatKho();
     void ShowCustomer();
     void InsertCustomer();
-    void DeleteCustomer();  // truyen ID
+    void DeleteCustomer(); // truyen ID
     void SetCustomer();
     void ShowOutput();
     void ShowDetailOutput();
@@ -68,7 +72,7 @@ public:
     void menuOut();
     void manaCus();
     void manaOutput();
-    bool checkInt(const string&);
+    bool checkInt(const string &);
 };
 
 class QuanLyNhapKho : public QuanLy
@@ -89,7 +93,7 @@ public:
     void menuIn();
     void manaSup();
     void manaInput();
-    bool checkInt(const string&);
+    bool checkInt(const string &);
 };
 
 class QuanLyTongKho : public QuanLy
@@ -111,6 +115,6 @@ public:
     void manaPro();
     void manaFin();
     void manaLogin();
-    bool checkInt(const string&);
+    bool checkInt(const string &);
 };
 #endif // QUANLY_H

@@ -1,7 +1,10 @@
 #ifndef CATEGORY_H_
 #define CATEGORY_H_
 
-#include <bits/stdc++.h>
+#include <iostream>
+#include <string>
+#include <vector>
+#include <iomanip>
 using namespace std;
 
 class Category

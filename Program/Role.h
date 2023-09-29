@@ -1,4 +1,7 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <string>
+#include <vector>
+#include <iomanip>
 #include "QuanLy.h"
 #include "User.h"
 #include "Utilities.h"

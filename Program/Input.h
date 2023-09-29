@@ -1,7 +1,10 @@
 #ifndef INPUT_H
 #define INPUT_H
 
-#include <bits/stdc++.h>
+#include <iostream>
+#include <string>
+#include <vector>
+#include <iomanip>
 using namespace std;
 
 class Input{
